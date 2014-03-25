@@ -1,3 +1,4 @@
+require 'savon'
 require 'flowers/exception/exceptions'
 
 module Flowers
