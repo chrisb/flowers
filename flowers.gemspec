@@ -16,5 +16,5 @@ Gem::Specification.new do |gem|
   gem.version       = Flowers::VERSION
 
   gem.add_dependency 'savon', '~> 2.3'
-  gem.add_dependency 'active_support', '>2'
+  gem.add_dependency 'activesupport', '>2'
 end
