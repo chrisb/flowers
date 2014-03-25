@@ -1,5 +1,7 @@
 # Flowers
 
+[![Code Climate](https://codeclimate.com/github/chrisb/flowers.png)](https://codeclimate.com/github/chrisb/flowers)
+
 This gem lets you order some flowers from Ruby. Wow.
 
 # API Access
