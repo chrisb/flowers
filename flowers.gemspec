@@ -14,4 +14,7 @@ Gem::Specification.new do |gem|
   gem.name          = 'flowers'
   gem.require_paths = [ 'lib' ]
   gem.version       = Flowers::VERSION
+
+  gem.add_dependency 'savon', '~> 2.3'
+  gem.add_dependency 'active_support', '>2'
 end
